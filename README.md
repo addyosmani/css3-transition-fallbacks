@@ -1,1 +1,1 @@
-A repo for some CSS3 animated transition fallbacks.
+A repo for some CSS3 animated transition fallbacks. Additional demos for the tutorial related to this repo can be found at http://jsfiddle.net/addyosmani/fQhsv/show (jquery.transition.js) and http://jsfiddle.net/addyosmani/kfGUc/show (jquery.animate-enhanced.js).
